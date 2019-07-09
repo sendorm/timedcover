@@ -1,5 +1,5 @@
 # timedcover
-Custom cover component for Homeassistant
+Custom cover component for Homeassistant based on @PhracturedBlue's work. 
 
 Just put the files under custom_components/timedcover folder.
 
