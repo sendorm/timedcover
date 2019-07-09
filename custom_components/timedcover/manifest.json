@@ -1,0 +1,8 @@
+{
+  "domain": "timedcover",
+  "name": "Timed Cover",
+  "documentation": "https://github.com",
+  "dependencies": [],
+  "codeowners": ["@sendorm"],
+  "requirements": []
+}
